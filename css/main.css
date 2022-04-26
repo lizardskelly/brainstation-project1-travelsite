@@ -1,0 +1,36 @@
+.slogan {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #FEFAF5;
+  padding: 3rem 6rem;
+}
+
+.slogan__container {
+  width: 50%;
+}
+
+.slogan__title {
+  font-size: 34px;
+  font-weight: 700;
+  color: #335576
+}
+
+.slogan__text {
+  font-size: 14px;
+  color: #335576;
+  margin-top: 2rem;
+}
+
+.slogan__button {
+  background-color: #DB7A4E;
+  border: 0;
+  color: #FFF;
+  padding: .5rem 2.5rem;
+  border-radius: 30px;
+  margin-top: 2rem;
+}
+
+.slogan__image {
+  height: 20rem;
+}
