@@ -41,6 +41,10 @@
   margin: 0 .5rem;
 }
 
+.header__link-text:hover {
+  border-bottom: 2px solid #DB7A4E;
+}
+
 .header__link-text--border {
   border-bottom: 2px solid #DB7A4E;
 }

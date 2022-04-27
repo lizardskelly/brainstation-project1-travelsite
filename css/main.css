@@ -64,6 +64,11 @@
   margin: 0 1.25rem;
 }
 
+.recommendations__card:hover {
+  position: relative;
+  bottom: 1rem;
+}
+
 .recommendations__link {
   text-decoration: none;
 }
