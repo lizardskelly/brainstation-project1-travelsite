@@ -17,7 +17,7 @@
 }
 
 .schedule__title {
-  font-size: 70px;
+  font-size: 4.3rem;
   color: #FFF;
 }
 
@@ -54,7 +54,7 @@
 
 .schedule__text {
   background-color: #FEFAF5;
-  font-size: 18px;
+  font-size: 1.2rem;
   text-align: center;
   padding: 1rem 0;
   margin-bottom: 1rem;

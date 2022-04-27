@@ -11,13 +11,13 @@
 }
 
 .slogan__title {
-  font-size: 34px;
+  font-size: 2.2rem;
   font-weight: 700;
   color: #335576
 }
 
 .slogan__text {
-  font-size: 14px;
+  font-size: .9rem;
   color: #335576;
   margin-top: 2rem;
 }
@@ -82,6 +82,6 @@
 
 .recommendations__text {
   color: #FFF;
-  font-size: 22px;
+  font-size: 1.5rem;
   margin: 1rem;
 }
