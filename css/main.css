@@ -62,10 +62,12 @@
   border-radius: 5px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, .2);
   margin: 0 1.25rem;
+  bottom: 0;
+  position: relative;
+  transition: bottom 0.15s ease-in;
 }
 
 .recommendations__card:hover {
-  position: relative;
   bottom: 1rem;
 }
 
