@@ -46,6 +46,10 @@ main {
   font-size: 1rem;
   padding-bottom: .5rem;
   margin: 0 .5rem;
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  border-color: rgba(219, 122, 78, 0);
+  transition: border-color 0.15s ease-in;
 }
 
 .header__link-text:hover {
