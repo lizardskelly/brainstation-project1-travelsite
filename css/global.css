@@ -5,8 +5,15 @@
   box-sizing: border-box;
 }
 
+main {
+  margin-top: 3.8rem;
+}
+
 .header {
   background-color: #fff;
+  position: fixed;
+  width: 100%;
+  top: 0;
 }
 
 .header__container {
